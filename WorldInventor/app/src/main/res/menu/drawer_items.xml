@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeId"
+        android:icon="@drawable/homepic"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/createId"
+        android:icon="@drawable/starpic"
+        android:title="Create" />
+
+    <item
+        android:id="@+id/savedId"
+        android:icon="@drawable/flowerpic"
+        android:title="Saved Locales" />
+
+    <item
+        android:id="@+id/helpId"
+        android:icon="@drawable/infopic"
+        android:title="Help" />
+
+    <item
+        android:id="@+id/preferencesId"
+        android:icon="@drawable/brightpic"
+        android:title="Preferences" />
+</menu>
